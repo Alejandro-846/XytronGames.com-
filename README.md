@@ -2,6 +2,18 @@
 
 <img width="1904" height="979" alt="image" src="https://github.com/user-attachments/assets/6d8f643a-99da-4e70-90d5-f5ee16da1ee8" />
 
+## 🎥 Video Demostración
+
+Para ver el funcionamiento completo del sistema en acción, puedes ver nuestro video demostrativo:
+
+[![Video Demostración XYTRON Games](https://img.youtube.com/vi/YC_caldLvuY/0.jpg)](https://youtu.be/YC_caldLvuY)
+
+**Contenido del video**:
+- Demostración completa del backend con Node.js y Express
+- Configuración de rutas y middlewares
+- Solución de CORS entre frontend y backend
+- Pruebas de endpoints con Postman
+
 # 🎮 XYTRON Games - Backend API
 
 API RESTful para el sistema de gestión de inventario y ventas de XYTRON Games, una tienda especializada en videojuegos y consolas.
@@ -19,7 +31,6 @@ API RESTful para el sistema de gestión de inventario y ventas de XYTRON Games, 
 ## 📦 Estructura del Proyecto
 <img width="748" height="463" alt="image" src="https://github.com/user-attachments/assets/cabbb370-46d1-4166-95a1-4b83b33316c3" />
 <img width="469" height="620" alt="image" src="https://github.com/user-attachments/assets/703a3d05-4c48-41e1-8623-35afc45a33dd" />
-
 
 
 
